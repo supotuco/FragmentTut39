@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FragmentTut39</string>
+    <string-array name="android_versions">
+        <item>
+            dohnut
+        </item>
+        <item>
+            eclair
+        </item>
+        <item>
+            froyo
+        </item>
+
+    </string-array>
+
+</resources>
